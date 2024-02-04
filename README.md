@@ -29,3 +29,6 @@ Change each case to one of the existing instructions, or leave it blank to do no
 | _A carry flag is set when a carry-out would occur_ |                                                                            |
 | NOTA                                               | Complements the content in register A.                                     |
 | JC #value                                          | Sets the current instruction of the PC to 'i' when a carry has occurred.   |
+
+## License
+All files within this repository are submitted to the GNU AGPLv3 license, in short indicating that any code within this repository may not be stripped of its copyright notices/commentation and may also not be used in closed-source applications or programs. For a full description of this type of license, please see the LICENSE file.
